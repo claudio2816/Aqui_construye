@@ -1,0 +1,31 @@
+
+.formulario_inicio{
+    margin-top: 8rem;
+    padding-top: 3rem;
+    width: 400px;
+    height: 450px;
+    color: white;
+    background-color: rgba(32,56,100,255);
+    border-radius: 3rem;
+}
+.primerP{
+    font-weight: bold;
+}
+.btn{
+    margin: 1rem;
+}
+.categoria{
+    color: black;
+    background-color: rgba(242,242,242,255);
+}
+.subcategoria{
+    color: black;
+    background-color: rgba(242,242,242,255);
+}
+.registro{
+    margin-top: 3rem;
+}
+.logo{
+    margin-top: 12rem;
+    margin-left: 100px;
+}
